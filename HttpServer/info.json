@@ -1,6 +1,7 @@
 {
-  "ApplicationRunningTime" : "",
-  "CurrentTotalCalls": 0,
-  "FirstCalledDateTime":"",
-  "LifetimeTotalCalls":0
+    "FirstCalledDateTime": "", 
+    "ApplicationRunningTime": "0", 
+    "CurrentTotalCalls": 0, 
+    "LifetimeTotalCalls": 0, 
+    "CurrentProcessStartTime": ""
 }
